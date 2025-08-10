@@ -10,4 +10,4 @@ Data is preprocessed using Nlp practices, and the model is trained and tested on
 - Python
 
 ## Future improvements
-- N/A
+- Implement front end for user interaction
